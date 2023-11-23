@@ -4,5 +4,5 @@
 
 # Here Go To See Details :
 ```
-TCH_220.github.io
+https://teamclayhacker.github.io/TCH_220/
 ```
